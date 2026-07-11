@@ -1,0 +1,57 @@
+101,Smartphone A,Electronics,500,10,4.5,5000,10
+102,Laptop B,Electronics,1200,5,4.7,6000,15
+103,Headphones C,Electronics,150,0,4.2,750,5
+104,Mouse D,Electronics,20,50,4.0,1000,20
+105,Keyboard E,Electronics,45,30,3.8,1350,10
+106,TV F,Electronics,800,3,4.6,2400,12
+107,Camera G,Electronics,600,4,4.3,2400,18
+108,Smartwatch H,Electronics,200,15,0,3000,8
+109,Tablet I,Electronics,300,8,4.1,2400,10
+110,Speaker J,Electronics,100,20,4.4,2000,25
+111,T-Shirt A,Fashion,25,100,4.0,2500,5
+112,Jeans B,Fashion,40,80,4.2,3200,10
+113,Jacket C,Fashion,90,40,4.5,3600,15
+114,Shoes D,Fashion,60,60,4.1,3600,20
+115,Cap E,Fashion,10,200,3.9,2000,5
+116,Socks F,Fashion,5,300,4.3,1500,10
+117,Belt G,Fashion,15,150,4.0,2250,12
+118,Bag H,Fashion,70,50,4.6,3500,18
+119,Shirt I,Fashion,30,90,0,2700,10
+120,Watch J,Fashion,150,20,4.7,3000,25
+121,Blender A,Home,80,25,4.2,2000,15
+122,Microwave B,Home,200,10,4.5,2000,20
+123,Fridge C,Home,1000,2,4.8,2000,5
+124,Toaster D,Home,30,60,4.0,1800,10
+125,Kettle E,Home,25,70,3.8,1750,12
+126,Vacuum F,Home,150,15,4.3,2250,18
+127,Lamp G,Home,20,100,4.1,2000,8
+128,Chair H,Home,60,40,4.4,2400,10
+129,Table I,Home,120,20,4.6,2400,15
+130,Sofa J,Home,500,5,4.7,2500,20
+131,Phone Case,Electronics,5,500,4.0,2500,5
+132,Charger,Electronics,10,300,4.2,3000,10
+133,USB Cable,Electronics,8,400,3.9,3200,12
+134,Monitor,Electronics,300,10,4.6,3000,15
+135,Router,Electronics,80,25,4.3,2000,10
+136,Shirt Duplicate,Fashion,30,90,4.1,2700,10
+137,Shoes X,Fashion,0,60,4.0,0,20
+140,Extreme Item,Electronics,10000,1,5.0,10000,5
+141,Outlier Phone,Electronics,20000,2,4.9,40000,10
+142,Cheap Item,Fashion,2,1000,3.5,2000,50
+143,Broken Data,Home,0,20,0,4000,10
+144,Luxury Watch,Fashion,5000,1,5.0,5000,5
+145,Random Item,Electronics,45,30,4.1,1350,0
+146,Smart Gadget,Electronics,250,12,4.4,3000,10
+147,Kitchen Set,Home,300,5,4.3,1500,15
+148,Sports Shoes,Fashion,120,25,4.6,3000,20
+149,Desk Lamp,Home,35,80,4.2,2800,10
+150,Duplicate TV,Electronics,800,3,4.6,2400,12
+151,Extra Phone,Electronics,500,10,4.5,5000,10
+152,Extra Phone,Electronics,500,10,4.5,5000,10
+154,Low Stock Item,Fashion,15,5,3.8,75,5
+155,Missing Revenue Item,Home,100,10,4.2,0,10
+156,Final Product,Electronics,400,6,4.6,2400,15
+157,Final Product Duplicate,Electronics,400,6,4.6,2400,15
+158,Data Noise,Fashion,20,50,0,1000,10
+159,Data Noise,Fashion,20,50,0,1000,10
+160,Edge Case Item,Home,9999,1,5.0,9999,0
